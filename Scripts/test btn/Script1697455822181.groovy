@@ -23,7 +23,7 @@ WebUI.setViewPortSize(1440, 900)
 
 WebUI.delay(2)
 
-WebUI.mouseOver(findTestObject('Object Repository/new btn/Page_Bank BTN Sahabat Keluarga Indonesia/button_tai'))
+WebUI.mouseOver(findTestObject('Object Repository/new btn/Page_Bank BTN Sahabat Keluarga Indonesia/button_shadow'))
 
 WebUI.click(findTestObject('Object Repository/new btn/Page_Bank BTN Sahabat Keluarga Indonesia/a_e-kurs konverter kalkulator'))
 
