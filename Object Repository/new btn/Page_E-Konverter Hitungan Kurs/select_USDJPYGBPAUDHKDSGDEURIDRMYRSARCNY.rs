@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_USDJPYGBPAUDHKDSGDEURIDRMYRSARCNY</name>
+   <tag></tag>
+   <elementGuidId>1905f879-5131-4ab1-a321-65d3a73b2ff7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='CurrencyCode'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2bf24bfc-5658-4255-9da0-c25b647c0c1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control cbCurrencyTo</value>
+      <webElementGuid>e8fca0e1-2caf-421e-80bb-45a1503c5e32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>CurrencyCode</value>
+      <webElementGuid>2464ae85-ca87-4815-b274-dc82be6017ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>CurrencyCode</value>
+      <webElementGuid>336616de-9636-463c-8a2c-cf32f4816dde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>USD
+JPY
+GBP
+AUD
+HKD
+SGD
+EUR
+IDR
+MYR
+SAR
+CNY
+</value>
+      <webElementGuid>63a98475-dbbb-4336-a666-6e22a9cc2eb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;btn-wrapper&quot;]/div[@class=&quot;btn-content&quot;]/section[@class=&quot;section-area mb-40&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7&quot;]/div[@class=&quot;converter-box converter-box__wrapper&quot;]/div[@class=&quot;converter-box__content&quot;]/form[@class=&quot;form-converter&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-3&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;select-wrapper select-kurs1&quot;]/select[@id=&quot;CurrencyCode&quot;]</value>
+      <webElementGuid>f68a7424-7ef0-44b9-a8d6-1f475c0c0ddf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='CurrencyCode'])[2]</value>
+      <webElementGuid>9a1229a9-1280-4e3f-b177-9a80cc38e4ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaksi'])[1]/following::select[2]</value>
+      <webElementGuid>9a33623b-be70-477d-85e7-08a3d1ea2205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-Konverter Hitungan Kurs'])[2]/following::select[3]</value>
+      <webElementGuid>2502bbe6-302b-432c-b450-a6a5b290d2b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[7]/preceding::select[1]</value>
+      <webElementGuid>da2fbf64-270e-4d79-a2ec-6d2d316e5056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JPY'])[6]/preceding::select[1]</value>
+      <webElementGuid>4712df32-cf43-41a3-912c-e232c6fdc094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/select</value>
+      <webElementGuid>d2fbfed5-26a8-4fc7-ba92-c2a30d1d151b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'CurrencyCode' and @name = 'CurrencyCode' and (text() = 'USD
+JPY
+GBP
+AUD
+HKD
+SGD
+EUR
+IDR
+MYR
+SAR
+CNY
+' or . = 'USD
+JPY
+GBP
+AUD
+HKD
+SGD
+EUR
+IDR
+MYR
+SAR
+CNY
+')]</value>
+      <webElementGuid>c751f20d-d711-408b-b369-3c467e962d5c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
